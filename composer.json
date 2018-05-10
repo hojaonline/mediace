@@ -1,5 +1,5 @@
 {
-	"name": "friendsoftypo3/mediace",
+	"name": "hojaonline/mediace",
 	"type": "typo3-cms-extension",
 	"description": "Allows to have non-FAL Media Content Elements like Video and Audio, behaves like TYPO3 4.x and TYPO3 6.x, but acts as compatibility layer for TYPO3 CMS 7.",
 	"homepage": "https://typo3.org",
